@@ -1,0 +1,6 @@
+## Interface : 900000
+## Title : my addon
+## Notes : this is my addon
+## Author : me
+MyAddon.lua
+MyAddon.xml
